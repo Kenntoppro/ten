@@ -1,0 +1,5 @@
+tir = float(input('минут: '))
+rio = float(input('смс: '))
+bro = tir * 2.2
+tur = rio * 1.5
+print(bro + tur)
